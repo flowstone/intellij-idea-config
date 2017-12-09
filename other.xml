@@ -1,0 +1,15 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/Study/SoftLib/nodejs/node.exe">
+      <npm-package value="D:/Study/SoftLib/nodejs/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="WebServicesPluginSettings" SelectedPlatform="Apache Axis">
+    <StubPackage>me.xueyao.cxf.client</StubPackage>
+    <StubUrl>http://127.0.0.1:8888/mobile?wsdl</StubUrl>
+  </component>
+</application>
