@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="mybatis-config" type="XML" />
       <mapping pattern="UserMapper" type="XML" />
     </extensionMap>
   </component>
